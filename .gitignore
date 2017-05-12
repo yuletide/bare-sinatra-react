@@ -1,2 +1,5 @@
 .bundle
 node_modules
+public/
+Gemfile.lock
+
